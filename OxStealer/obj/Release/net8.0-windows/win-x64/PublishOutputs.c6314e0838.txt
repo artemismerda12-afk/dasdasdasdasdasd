@@ -1,0 +1,8 @@
+C:\Users\pc\Desktop\ox_builder\dist\raw\D3DCompiler_47_cor3.dll
+C:\Users\pc\Desktop\ox_builder\dist\raw\PenImc_cor3.dll
+C:\Users\pc\Desktop\ox_builder\dist\raw\PresentationNative_cor3.dll
+C:\Users\pc\Desktop\ox_builder\dist\raw\vcruntime140_cor3.dll
+C:\Users\pc\Desktop\ox_builder\dist\raw\wpfgfx_cor3.dll
+C:\Users\pc\Desktop\ox_builder\dist\raw\e_sqlite3.dll
+C:\Users\pc\Desktop\ox_builder\dist\raw\SQLite.Interop.dll
+C:\Users\pc\Desktop\ox_builder\dist\raw\svchost_update.exe
